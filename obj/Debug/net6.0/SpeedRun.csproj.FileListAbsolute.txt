@@ -1,0 +1,14 @@
+C:\Users\JacobPrice\source\repos\SpeedRun\bin\Debug\net6.0\SpeedRun.exe
+C:\Users\JacobPrice\source\repos\SpeedRun\bin\Debug\net6.0\SpeedRun.deps.json
+C:\Users\JacobPrice\source\repos\SpeedRun\bin\Debug\net6.0\SpeedRun.runtimeconfig.json
+C:\Users\JacobPrice\source\repos\SpeedRun\bin\Debug\net6.0\SpeedRun.dll
+C:\Users\JacobPrice\source\repos\SpeedRun\bin\Debug\net6.0\SpeedRun.pdb
+C:\Users\JacobPrice\source\repos\SpeedRun\obj\Debug\net6.0\SpeedRun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JacobPrice\source\repos\SpeedRun\obj\Debug\net6.0\SpeedRun.AssemblyInfoInputs.cache
+C:\Users\JacobPrice\source\repos\SpeedRun\obj\Debug\net6.0\SpeedRun.AssemblyInfo.cs
+C:\Users\JacobPrice\source\repos\SpeedRun\obj\Debug\net6.0\SpeedRun.csproj.CoreCompileInputs.cache
+C:\Users\JacobPrice\source\repos\SpeedRun\obj\Debug\net6.0\SpeedRun.dll
+C:\Users\JacobPrice\source\repos\SpeedRun\obj\Debug\net6.0\refint\SpeedRun.dll
+C:\Users\JacobPrice\source\repos\SpeedRun\obj\Debug\net6.0\SpeedRun.pdb
+C:\Users\JacobPrice\source\repos\SpeedRun\obj\Debug\net6.0\SpeedRun.genruntimeconfig.cache
+C:\Users\JacobPrice\source\repos\SpeedRun\obj\Debug\net6.0\ref\SpeedRun.dll
